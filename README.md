@@ -1,5 +1,5 @@
 # Rocket-Simulation
-Shows the case of a rocket launched with drag force is acting on it and not acting on it.
+Shows the cases of a rocket launched with drag force is acting on it and not acting on it.
 
 With the given variables programe will calculate the velocity, position and drag force acting on the rocket with respect to time.
 
